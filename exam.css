@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: black;
+  background-color: #1C1C1C;
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
 }
@@ -24,7 +24,7 @@ h2 {
   margin-top: 0;
   margin-left: 0;
   margin-right: 0;
-  max-width: 100%;
+  width:100%;
 }
 
 .images img{
@@ -78,7 +78,7 @@ iframe{
 }
 @media screen and (min-width:1024px){
 body {
-  margin-left: 236px;
-  margin-right: 236px;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 }
